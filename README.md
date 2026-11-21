@@ -10,7 +10,7 @@ Backend en **FastAPI + SQLModel + PostgreSQL** y frontend en **React + TypeScrip
 | Recurso | URL |
 | --- | --- |
 | Repositorio público en GitHub | https://github.com/EmmanuelJG/TPI_Prog4_FoodStore |
-| Video de demostración (10 a 15 min) | **COMPLETAR: link público del video** |
+| Video de demostración (10 a 15 min) | https://www.youtube.com/watch?v=N6SikL_Wau8&t=2s |
 
 ## Requisitos
 
